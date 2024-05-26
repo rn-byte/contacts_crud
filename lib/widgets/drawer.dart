@@ -2,7 +2,6 @@ import 'package:crud_op/pages/contacts.dart';
 import 'package:crud_op/pages/login_signup.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 Container drawerSection(BuildContext context) {
   return Container(
